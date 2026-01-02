@@ -54,18 +54,6 @@ const developer = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)
 
 </div>
-
----
-
-<div align="center">
-  
-### 💻 Thanks for visiting! Let's build something amazing together! 🚀
-
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
-
-</div>
-
----
